@@ -1,5 +1,3 @@
-import struct
-
 from fastapi import FastAPI, File
 import uvicorn
 import construct
